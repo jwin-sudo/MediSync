@@ -53,5 +53,3 @@
 46. concatenate the patient name, hours stay, and treatments receive 
 47. increment the i by 1
 48. break out of the loop once it reaches the max length of the array
-49. 
-50. 
