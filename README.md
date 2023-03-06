@@ -53,3 +53,11 @@
 46. concatenate the patient name, hours stay, and treatments receive 
 47. increment the i by 1
 48. break out of the loop once it reaches the max length of the array
+
+
+Unit Test
+
+Test the file if it return correct output 
+test the patient function if there's no data
+test the treatment function if there's no data
+test the timestayed function if there's no data
